@@ -1,0 +1,14 @@
+2021,rdeca,gorsko,27,2
+2022,oranzna,treking,11,1
+2013,zelena,gorsko,30,2
+2016,modra,gorsko,23,1
+2023,zelena,cestno,17,2
+2022,zelena,treking,9,2
+2019,rdeca,gorsko,17,1
+2021,rdeca,gorsko,5,1
+2012,rdeca,gorsko,22,2
+2016,modra,treking,3,2
+2019,siva,gorsko,23,1
+2022,bela,treking,6,1
+2016,roza,cestno,26,2
+2013,oranzna,cestno,9,2

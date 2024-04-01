@@ -1,0 +1,15 @@
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Kolo/bin/Debug/net6.0/Kolo
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Kolo/bin/Debug/net6.0/Kolo.deps.json
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Kolo/bin/Debug/net6.0/Kolo.runtimeconfig.json
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Kolo/bin/Debug/net6.0/Kolo.dll
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Kolo/bin/Debug/net6.0/Kolo.pdb
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Kolo/obj/Debug/net6.0/Kolo.csproj.AssemblyReference.cache
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Kolo/obj/Debug/net6.0/Kolo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Kolo/obj/Debug/net6.0/Kolo.AssemblyInfoInputs.cache
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Kolo/obj/Debug/net6.0/Kolo.AssemblyInfo.cs
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Kolo/obj/Debug/net6.0/Kolo.csproj.CoreCompileInputs.cache
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Kolo/obj/Debug/net6.0/Kolo.dll
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Kolo/obj/Debug/net6.0/refint/Kolo.dll
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Kolo/obj/Debug/net6.0/Kolo.pdb
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Kolo/obj/Debug/net6.0/Kolo.genruntimeconfig.cache
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Kolo/obj/Debug/net6.0/ref/Kolo.dll
