@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kolo", "Kolo\Kolo.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racun", "Racun\Racun.csproj", "{D8D764C2-693F-4C7B-915E-578BBB51356B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razred2", "Razred2\Razred2.csproj", "{F5ED9B03-4F1F-44F5-B0B5-7811C1592DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razred", "Razred\Razred.csproj", "{7EE68B8D-6A5A-4A56-85E1-430EEAA09218}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{D8D764C2-693F-4C7B-915E-578BBB51356B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8D764C2-693F-4C7B-915E-578BBB51356B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8D764C2-693F-4C7B-915E-578BBB51356B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5ED9B03-4F1F-44F5-B0B5-7811C1592DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5ED9B03-4F1F-44F5-B0B5-7811C1592DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5ED9B03-4F1F-44F5-B0B5-7811C1592DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5ED9B03-4F1F-44F5-B0B5-7811C1592DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE68B8D-6A5A-4A56-85E1-430EEAA09218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE68B8D-6A5A-4A56-85E1-430EEAA09218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE68B8D-6A5A-4A56-85E1-430EEAA09218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE68B8D-6A5A-4A56-85E1-430EEAA09218}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
