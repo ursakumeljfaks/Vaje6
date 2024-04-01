@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razred2", "Razred2\Razred2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razred", "Razred\Razred.csproj", "{7EE68B8D-6A5A-4A56-85E1-430EEAA09218}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRegistracija", "TestRegistracija\TestRegistracija.csproj", "{112EE1EA-0862-4120-A12B-818C11DE29F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoziloTest", "VoziloTest\VoziloTest.csproj", "{FC27E035-9732-441E-B21F-9BF9E01E9FC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{7EE68B8D-6A5A-4A56-85E1-430EEAA09218}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EE68B8D-6A5A-4A56-85E1-430EEAA09218}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EE68B8D-6A5A-4A56-85E1-430EEAA09218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{112EE1EA-0862-4120-A12B-818C11DE29F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{112EE1EA-0862-4120-A12B-818C11DE29F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{112EE1EA-0862-4120-A12B-818C11DE29F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{112EE1EA-0862-4120-A12B-818C11DE29F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC27E035-9732-441E-B21F-9BF9E01E9FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC27E035-9732-441E-B21F-9BF9E01E9FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC27E035-9732-441E-B21F-9BF9E01E9FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC27E035-9732-441E-B21F-9BF9E01E9FC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{D8D764C2-693F-4C7B-915E-578BBB51356B}|Default">
+﻿<Properties StartupConfiguration="{112EE1EA-0862-4120-A12B-818C11DE29F1}|Unit Tests">
   <MonoDevelop.Ide.ItemProperties.Kolo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Razred FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Razred2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.VoziloTest FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestRegistracija PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Racun PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
