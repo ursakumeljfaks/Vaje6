@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{5AD17944-7BE3-4EDD-938D-667D9E9F4F91}|Default">
-  <MonoDevelop.Ide.ItemProperties.Kolo FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Kolo PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Racun FirstBuild="True" />
 </Properties>

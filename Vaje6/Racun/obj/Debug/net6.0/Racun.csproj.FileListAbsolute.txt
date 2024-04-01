@@ -1,0 +1,15 @@
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Racun/bin/Debug/net6.0/Racun
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Racun/bin/Debug/net6.0/Racun.deps.json
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Racun/bin/Debug/net6.0/Racun.runtimeconfig.json
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Racun/bin/Debug/net6.0/Racun.dll
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Racun/bin/Debug/net6.0/Racun.pdb
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Racun/obj/Debug/net6.0/Racun.csproj.AssemblyReference.cache
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Racun/obj/Debug/net6.0/Racun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Racun/obj/Debug/net6.0/Racun.AssemblyInfoInputs.cache
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Racun/obj/Debug/net6.0/Racun.AssemblyInfo.cs
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Racun/obj/Debug/net6.0/Racun.csproj.CoreCompileInputs.cache
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Racun/obj/Debug/net6.0/Racun.dll
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Racun/obj/Debug/net6.0/refint/Racun.dll
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Racun/obj/Debug/net6.0/Racun.pdb
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Racun/obj/Debug/net6.0/Racun.genruntimeconfig.cache
+/Users/ursakumelj/Documents/Programiranje 3/Razredi-programiranje-3/Vaje6/Vaje6/Racun/obj/Debug/net6.0/ref/Racun.dll
